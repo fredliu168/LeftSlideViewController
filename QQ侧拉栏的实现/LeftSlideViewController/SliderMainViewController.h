@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainPageViewController.h
 //  QQ侧拉栏的实现
 //
 //  Created by mac on 15/12/29.
@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SliderViewController.h"
 
-@interface ViewController : UIViewController
-
+@interface SliderMainViewController :UIViewController
 
 @end
-
